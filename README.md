@@ -9,7 +9,7 @@
 - 💻 I love building full-stack projects and solving complex DSA problems
 - 👨‍💻 All of my projects are available at:**https://khyati-portfolio.vercel.app/**
 - 💬 Ask me about **MERN, DSA, and Frontend Frameworks**
-- 📫 How to reach me: **khyati2004chahal@gmai.com**
+- 📫 How to reach me: **khyati2004chahal@gmail.com**
 
 ---
 
